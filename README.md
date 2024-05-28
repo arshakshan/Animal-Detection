@@ -28,8 +28,8 @@ AlexNet is a convolutional neural network that achieved breakthrough performance
 
 The implementation details can be found in the following files:
 
-- [AlexNet Notebook](/Alexnet.ipynb)
-- [AlexNet Script](/Alexnet.py)
+- [AlexNet Notebook](./Training/Alexnet.ipynb)
+- [AlexNet Script](./Alexnet.py)
 ### VGGNet
 VGGNet is another convolutional neural network known for its simplicity and depth. We used VGGNet to compare its performance with AlexNet.
 
@@ -72,8 +72,8 @@ curl -X POST -F 'file=@/path/to/your/image.jpg' http://localhost:5000/predict
 ## Results
 The results of the experiments with different models are summarized as follows:
 
-- AlexNet: Link to Results Notebook
-- VGGNet: Link to Results Notebook
+- AlexNet: [Link to Results Notebook](./Alexnet.ipynb)
+- VGGNet: [Link to Results Notebook](./Training/VGG_trn_new.ipynb)
 
 Comparative analysis and performance metrics are included in the respective notebooks.
 

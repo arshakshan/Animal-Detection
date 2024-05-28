@@ -44,7 +44,7 @@ To run this project, you need to have Docker installed. Follow these steps to se
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/wildlife-intrusion-detection.git
+git clone https://github.com/arshakshan/wildlife-intrusion-detection.git
 cd wildlife-intrusion-detection
 ```
 
